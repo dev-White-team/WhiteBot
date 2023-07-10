@@ -1,2 +1,2 @@
 # WhiteBot
-WhiteBot의 소유자 이전에 의한 placeholder입니다.
+https://github.com/Whitetiger0423/WhiteBot
